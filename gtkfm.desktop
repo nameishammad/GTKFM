@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GTKFM
+GenericName=File Manager
+Comment=Simple GTK File Manager
+Exec=gtkfm %U
+Icon=system-file-manager
+Terminal=false
+Categories=System;Utility;FileManager;
+MimeType=inode/directory;
+StartupNotify=true
+Keywords=files;folders;browser;manager;
